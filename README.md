@@ -1,16 +1,11 @@
 ### Hey, Acerkaio here! 👋
-
-<!--
-**Acerkaio/Acerkaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 About me
+I'm a middle school student, in JiangXi, China. I often watch some anime in my spare time. I don't know if it's too early to talk about dreams. I want to be a developer in the future.
+#### 🔭 My hobbies
+I'm interested in programming, and also Web. I also write the front end in my free time. I'm a OIer, too, so I usually solve some promblems of Informatics Competition.
+#### 😄My motto
+𝓙𝓾𝓼𝓽 𝓯𝓸𝓵𝓵𝓸𝔀 𝓽𝓱𝓮 𝓷𝓮𝓸𝓷 𝓻𝓪𝓲𝓷𝓫𝓸𝔀.
+#### You can find me on:
+- [My blog](https://www.acerkaio.top/)
+#### How to contact me?
+Tencent QQ: 2607795682
