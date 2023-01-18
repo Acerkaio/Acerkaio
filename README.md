@@ -9,3 +9,9 @@ I'm interested in programming, and also Web. I also write the front end in my fr
 - [My blog](https://www.acerkaio.top/)
 #### How to contact me?
 Tencent QQ: 2607795682
+
+<p align="center">
+  <a href="https://github.com/coderxm">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Acerkaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
+</p>
