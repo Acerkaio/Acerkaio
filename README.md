@@ -4,7 +4,7 @@ I'm a middle school student, in JiangXi, China. I often watch some anime in my s
 #### 🔭 My hobbies
 I'm interested in programming, and also Web. I also write the front end in my free time. I'm a OIer, too, so I usually solve some promblems of Informatics Competition.
 #### 😄My motto
-𝓙𝓾𝓼𝓽 𝓯𝓸𝓵𝓵𝓸𝔀 𝓽𝓱𝓮 𝓷𝓮𝓸𝓷 𝓻𝓪𝓲𝓷𝓫𝓸𝔀.
+If you are gentle, no one can hate you. If you don't investigate, no one can disturb you.
 #### You can find me on:
 - [My blog](https://www.acerkaio.top/)
 #### How to contact me?
