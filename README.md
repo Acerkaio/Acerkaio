@@ -1,3 +1,4 @@
+Avatar: PID 87011701.
 ### Hey, Acerkaio here! 👋
 #### 💬 About me
 I'm a middle school student, in JiangXi, China. I often watch some anime in my spare time. I don't know if it's too early to talk about dreams. I want to be a developer in the future.
