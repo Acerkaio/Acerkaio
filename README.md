@@ -7,7 +7,7 @@ I'm interested in programming, and also Web. I also write the front end in my fr
 
 #### You can find me on:
 - [My blog](https://blog.acerkaio.top/)
-- 
+- e-mail: what667172@163.com or shawn99256@gmail.com
 #### How to contact me?
 Tencent QQ: 2607795682
 
